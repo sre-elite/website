@@ -1,0 +1,144 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "首届线上直播活动报名中"
+      content : "本次活动包括联盟的来历、白皮书的更新状态和另外两个硬核技术话题。请在视频号和 B 站预约参与互动。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "马上报名"
+        link : "event/"
+    # slider item loop
+    - title : "《SRE实践白皮书》更新中"
+      content : "近期联盟已经发布了《SRE实践白皮书》的最新版本 RC2 ，欢迎大家下载阅读。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "下载"
+        link : "notice/"
+
+
+
+    # slider item loop
+    - title : "引领、研究、传播、发展"
+      content : "精英联盟是一个致力于推动SRE实践的技术研讨社区，我们的使命是促进生产稳定安全。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "联盟专家"
+        link : "teacher/"
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "SRE实践白皮书"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "SRE精英联盟用社区协作的方式，历时数年，经过大量领域专家的努力，聚集了大量一线实操经验，并在持续更新中。本白皮书是联盟核心工作之一。"
+
+    # feature item loop
+    - name : "技术研讨社区"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "联盟的社区定期举行各种交流研讨活动，包括双周闭门的例会、线上直播和线下的 Meetup 等等。。"
+
+    # feature item loop
+    - name : "精英联盟使命"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "致力于发展核心的专家团队，讨论切磋各个公司当前线上的 SRE 实践。用白皮书和线上线下活动的方式不断输出行业影响。"
+
+    # feature item loop
+    - name : "促生产稳定安全"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "关于精英联盟"
+  image : "images/about/about-us.jpg"
+  content : "自从 SRE 的理念进入中国以来，就已经引起了很多企业的关注和效仿，但各企业实施 SRE 的方法各异，SRE 的实现效果也各不相同。与此同时，中国的互联网行业中涌现出了一批对SRE充满热情的倡导者，他们为社区做出了各种贡献；包括：孙宇聪翻译出版了《SRE：Google运维解密》、赵成在极客时间开设了课程《SRE实战手册》，以及赵舜东在社区里积极地布道分享等等，不胜枚举。2022年，由赵成等人牵头，首批来自于互联网、运营商、金融等行业领军企业的 SRE 团队负责人齐聚一堂，组织了SRE研讨社区，定期开展社区分享活动，共同探讨 SRE 在各企业里的发展路径，分享各自的实战经验，并总结出了这份来自一线实战的、详实而持续更新的《SRE实践白皮书》。"
+  button:
+    enable : true
+    label : "了解更多"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "课程"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "申请者需满足联盟所要求的资质"
+  title : "SRE精英联盟网络一线专家"
+  button:
+    enable : true
+    label : "申请加入"
+    link : "contact/"
+
+
+######################## Success story #############################
+success_story:
+  enable : false
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "联盟案例"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+            
+            
+  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "近期活动"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "精英专家"
+      count : "29"
+
+    # funfact item loop
+    - name : "成员单位"
+      count : "12"
+
+    # funfact item loop
+    - name : "文档版本"
+      count : "13"
+
+    # funfact item loop
+    - name : "活动人次"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "文章更新"
+  # blog item comes from "content/**/blog" folder.

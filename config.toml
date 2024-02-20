@@ -1,0 +1,343 @@
+######################## default configuration ####################
+baseURL = "/"
+title = "SRE精英联盟 | 引领、研究、发展SRE实践"
+theme = "educenter-hugo"
+# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timeZone = "Asia/Shanghai"
+# post pagination
+paginate = 6 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+# google analytics
+#googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# disqus short name
+disqusShortname = "sre-elite" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+# disable language
+disableLanguages = [ "fr"
+] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+hasCJKLanguage = true #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+defaultContentLanguage = "zh-cn"
+
+
+############################# Build ##############################
+[build]
+noJSConfigInAssets = false
+useResourceCacheWhen = 'fallback'
+[build.buildStats]
+enable = true
+[[build.cachebusters]]
+source = 'assets/.*\.(js|ts|jsx|tsx)'
+target = '(js|scripts|javascript)'
+[[build.cachebusters]]
+source = 'assets/.*\.(css|sass|scss)$'
+target = '(css|styles|scss|sass)'
+[[build.cachebusters]]
+source = 'assets/.*\.(.*)$'
+target = '$1'
+
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+############################# Imaging ##############################
+[imaging]
+# See https://github.com/disintegration/imaging
+# Default JPEG or WebP quality setting. Default is 75.
+quality = 90
+resampleFilter = "lanczos"
+
+############################# Caches ###############################
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+############################# Markup ###############################
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/animate/animate.css"
+[[params.plugins.css]]
+link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+link = "plugins/filterizr/jquery.filterizr.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "SRE精英联盟是一个致力于引领、研究、发展SRE实践的社区。"
+author = "SRE精英联盟"
+# contact info
+address = "朝阳区，北京，中国"
+mobile = "+86 13581793238"
+email = "info@sre-elite.com"
+# contact form action
+contact_form_action = "https://formspree.io/f/xvoezaeg" # contact form works with https://formspree.io
+# Google Analitycs
+# google_analitycs_id = "" # your id
+# top header
+top_header = true
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://martinliu.us21.list-manage.com/subscribe?u=73b6f807adb16f3aa5765728e&id=bd39e4c849" # replace this url with yours
+mailchimp_form_name = "65efd6fff947/sre-elite-newsletter" # replace this code with yours
+
+# google map
+[params.map]
+enable = false
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+# map_marker = "images/marker.png" # marker size 37*55 px
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+  
+############################# social site ########################
+# [[params.social]]
+# title = "facebook"
+# icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+# link = "#"
+
+
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://www.github.com/sre-elite"
+
+[[params.social]]
+title = "wechat"
+icon = "ti-themify-favicon" # themify icon : https://themify.me/themify-icons
+link = "https://mp.weixin.qq.com/s/MxhmgHzFCvFqc7gf-gdxPw"
+
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/@sre-elite"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+
+[Languages.en.params]
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+
+
+
+################### English navigation ####################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "course"
+url = "course/"
+weight = 2
+
+[[Languages.en.menu.main]]
+weight = 3
+name = "Pages"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "teacher"
+  url = "teacher/"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "notice"
+  url = "notice/"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "event"
+  url = "event/"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "scholarship"
+  url = "scholarship/"
+
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "research"
+  url = "research/"
+  
+[[Languages.en.menu.main]]
+name = "blog"
+url = "blog/"
+weight = 4
+  
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+
+[[Languages.en.menu.footer]]
+name = "teacher"
+url = "teacher/"
+
+[[Languages.en.menu.footer]]
+name = "notice"
+url = "notice/"
+
+[[Languages.en.menu.footer]]
+name = "event"
+url = "event/"
+
+[[Languages.en.menu.footer]]
+name = "scholarship"
+url = "scholarship/"
+
+[[Languages.en.menu.footer]]
+name = "research"
+url = "research/"
+
+
+
+
+
+################################### Chinese language #####################################
+[Languages.zh-cn]
+languageName = "zh-cn"
+languageCode = "zh-cn"
+contentDir = "content/chinese"
+weight = 2
+
+[Languages.zh-cn.params]
+home = "首页"
+# copyright
+copyright = "&copy; SRE精英联盟-版权所有 2024 署名-非商业性使用-禁止演绎 CC4.0"
+
+
+################### Chinese navigation ####################
+
+# main menu
+[[Languages.zh-cn.menu.main]]
+name = "关于"
+url = "about/"
+weight = 1
+
+[[Languages.zh-cn.menu.main]]
+name = "公告"
+url = "notice/"
+weight = 2
+
+[[Languages.zh-cn.menu.main]]
+weight = 3
+name = "联盟"
+hasChildren = true
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "联盟"
+  name = "专家"
+  url = "teacher/"
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "联盟"
+  name = "课程"
+  url = "course/"
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "联盟"
+  name = "活动"
+  url = "event/"
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "联盟"
+  name = "辅导"
+  url = "scholarship/"
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "联盟"
+  name = "研究"
+  url = "research/"
+  
+[[Languages.zh-cn.menu.main]]
+name = "博客"
+url = "blog/"
+weight = 4
+  
+[[Languages.zh-cn.menu.main]]
+name = "联系"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+
+[[Languages.zh-cn.menu.footer]]
+name = "专家"
+url = "teacher/"
+
+
+[[Languages.zh-cn.menu.footer]]
+name = "活动"
+url = "event/"
+
+[[Languages.zh-cn.menu.footer]]
+name = "辅导"
+url = "scholarship/"
+
+[[Languages.zh-cn.menu.footer]]
+name = "研究"
+url = "research/"
+

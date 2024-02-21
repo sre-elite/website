@@ -73,3 +73,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Deploy to gh-pages 🚀  # gh-pages 用于测试目的，同时也是 staging 环境
+        uses: JamesIves/github-pages-deploy-action@4.5.0
+        with:
+          branch: gh-pages
+          folder: public
+          clean: true
+          single-commit: true

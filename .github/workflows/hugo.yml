@@ -61,13 +61,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Deploy to gh-pages 🚀  # gh-pages 用于测试目的，同时也是 staging 环境
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: gh-pages
-          folder: ./public
-          clean: true
-          single-commit: true
+      # - name: Deploy to gh-pages 🚀  # gh-pages 用于测试目的，同时也是 staging 环境
+      #   uses: JamesIves/github-pages-deploy-action@v4
+      #   with:
+      #     branch: gh-pages
+      #     folder: ./public
+      #     clean: true
+      #     single-commit: true
 
   # Deployment job
   deploy:

@@ -27,7 +27,7 @@ slider:
 
 
     # slider item loop
-    - title : "引领、研究、传播、发展"
+    - title : "引领、研究、发展SRE"
       content : "精英联盟是一个致力于推动SRE实践的技术研讨社区，我们的使命是促进生产稳定安全。"
       animation_in : "left"
       animation_out : "right"

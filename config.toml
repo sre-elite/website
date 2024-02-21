@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "SRE精英联盟 | 引领、研究、发展SRE实践"
+title = "SRE精英联盟 | 引领、研究、发展SRE"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Asia/Shanghai"
@@ -106,7 +106,7 @@ contact_form_action = "https://formspree.io/f/xvoezaeg" # contact form works wit
 # Google Analitycs
 # google_analitycs_id = "" # your id
 # top header
-top_header = true
+top_header = false
 
 # Preloader
 [params.preloader]
@@ -141,10 +141,10 @@ expire_days = 2
 
 
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "github"

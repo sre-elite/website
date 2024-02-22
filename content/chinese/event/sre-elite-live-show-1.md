@@ -1,5 +1,5 @@
 ---
-title: "SRE精英联盟线上直播-第一期"
+title: "SRE精英联盟:释放卓越系列直播-第一期"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
@@ -21,32 +21,44 @@ apply_url : "https://space.bilibili.com/477542716/dynamic"
 # event speaker
 speaker:
   # speaker loop
+  - name : "刘宇"
+    image : "images/event-speakers/liu-yu.jpg"
+    designation : "主持人"
+
+  # speaker loop
+  - name : "赵成"
+    image : "images/event-speakers/zhao-cheng.jpg"
+    designation : "联盟创始人"
+
+  # speaker loop
   - name : "党受辉"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "联盟核心组织者"
+    image : "images/event-speakers/dang-shouhui.jpg"
+    designation : "联盟专家代表"
 
   # speaker loop
   - name : "刘亚丹"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "联盟专家"
-
-  # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.jpg"
-    designation : "联盟专家"
-
-  # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.jpg"
-    designation : "主持人"
+    image : "images/event-speakers/liu-yadan.jpg"
+    designation : "分享专家"
 
 # type
 type: "event"
 ---
+
+## SRE Excellence Unleashed: Live with Pros. Ep1
 
 ### 直播内容概述
 
 * SRE精英联盟之桃园结义，讲述联盟的来历和故事。
 * 《SRE实践白皮书》RC2首次公开发布，历经数年撰写现公开下载。
 * 用货币化的方式破局SRE团队没事故的时候也没有功劳的悖论。
-* 议题二待定。
+* 在企业里夯实SRE团队的职能并主动拓展价值。
+
+### 直播预约和会看平台
+
+请扫码关注预约或者会看直播。
+
+视频号：
+![SRE精英联盟](/images/wechat.jpg)
+
+B站：
+![SRE精英联盟](/images/bilibili.jpg)

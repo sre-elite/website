@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "马上报名"
-        link : "event/SRE-Excellence-Unleashed-ep1"
+        link : "event/SRE-Excellence-Unleashed-ep1/"
     # slider item loop
     - title : "《SRE实践白皮书》更新中"
       content : "近期联盟已经发布了《SRE实践白皮书》的最新版本 RC2 ，欢迎大家下载阅读。"

@@ -60,7 +60,7 @@ banner_feature:
     # feature item loop
     - name : "促生产稳定安全"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "SRE 实践以及相关技术研究领域是生产系统安全稳定运行的基础，是消除和控制风险的不二法门。"
 
 
 ############################## about ##################################

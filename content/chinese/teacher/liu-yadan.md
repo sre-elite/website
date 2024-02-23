@@ -1,6 +1,6 @@
 ---
 title: "刘亚丹"
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
@@ -8,7 +8,7 @@ description : "现任广州趣丸网络科技有限公司运维总监"
 # teacher portrait
 image: "images/elite/zhao-cheng.jpg"
 # course
-course: "创业者"
+course: "趣丸网络"
 # biography
 bio: "目前负责趣丸科技的基础架构、SRE 保障、FinOps 财务管理以及运维产品体系等多个方面。16年运维工作经验，对 IDC、云计算、基础架构、云原生应用架构、SRE 运维保障、数据库多活和容灾、资源成本优化、运维产品规划和落地等方面具有深入理解和大量实践"
 # interest

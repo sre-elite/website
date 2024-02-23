@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "现任广州趣丸网络科技有限公司运维总监"
 # teacher portrait
-image: "images/elite/zhao-cheng.jpg"
+image: "images/elite/liu-yadan.jpg"
 # course
 course: "趣丸网络"
 # biography

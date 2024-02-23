@@ -58,7 +58,7 @@ type: "event"
 请扫码关注预约或者回看直播。
 
 视频号：
-![SRE精英联盟](/website/images/wechat.jpg)
+![SRE精英联盟](images/wechat.jpg)
 
 B站：
-![SRE精英联盟](/website/images/bilibili.jpg)
+![SRE精英联盟](images/bilibili.jpg)

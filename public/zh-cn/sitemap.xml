@@ -45,7 +45,7 @@
     <lastmod>2024-02-29T20:00:00+01:00</lastmod>
   </url><url>
     <loc>/notice/</loc>
-    <lastmod>2024-01-06T15:27:17+06:00</lastmod>
+    <lastmod>2024-02-26T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,18 +57,8 @@
                 href="/notice/"
                 />
   </url><url>
-    <loc>/notice/notice-1/</loc>
-    <lastmod>2024-01-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/notice/notice-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/notice/notice-1/"
-                />
+    <loc>/notice/wp-v-1.0.0/</loc>
+    <lastmod>2024-02-26T15:27:17+06:00</lastmod>
   </url><url>
     <loc>/tags/advice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>

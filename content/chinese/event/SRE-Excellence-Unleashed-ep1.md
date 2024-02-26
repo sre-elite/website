@@ -31,14 +31,16 @@ speaker:
     designation : "SRE精英联盟发起人"
 
   # speaker loop
+  - name : "杨军"
+    image : "images/event-speakers/yang-jun.jpg"
+    designation : "腾讯IEG-SRE总监"
+
+  # speaker loop
   - name : "刘亚丹"
     image : "images/event-speakers/liu-yadan.jpg"
     designation : "趣丸科技-技术保障部总监"
 
-  # speaker loop
-  - name : "杨军"
-    image : "images/event-speakers/dang-shouhui.jpg"
-    designation : "腾讯IEG-SRE总监"
+
 
 # type
 type: "event"
@@ -69,7 +71,7 @@ type: "event"
 请扫码关注预约直播，或者关注回放视频。
 
 视频号：
-![SRE精英联盟](/images/wechat.jpg)
+![SRE精英联盟](/images/sph.jpg)
 
 B站：
 ![SRE精英联盟](/images/bilibili.jpg)

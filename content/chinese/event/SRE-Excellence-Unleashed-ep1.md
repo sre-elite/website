@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "本次活动在 B 站和微信视频号都可以预约。"
+description : "本次活动在视频号&B站都可以预约。"
 # Event image
 image: "images/events/event-1.jpg"
 # location
@@ -23,22 +23,22 @@ speaker:
   # speaker loop
   - name : "刘宇"
     image : "images/event-speakers/liu-yu.jpg"
-    designation : "主持人"
+    designation : "金山办公-SRE工程师"
 
   # speaker loop
   - name : "赵成"
     image : "images/event-speakers/zhao-cheng.jpg"
-    designation : "联盟创始人"
-
-  # speaker loop
-  - name : "党受辉"
-    image : "images/event-speakers/dang-shouhui.jpg"
-    designation : "联盟专家代表"
+    designation : "SRE精英联盟发起人"
 
   # speaker loop
   - name : "刘亚丹"
     image : "images/event-speakers/liu-yadan.jpg"
-    designation : "分享专家"
+    designation : "趣丸科技-技术保障部总监"
+
+  # speaker loop
+  - name : "杨军"
+    image : "images/event-speakers/dang-shouhui.jpg"
+    designation : "腾讯IEG-SRE总监"
 
 # type
 type: "event"
@@ -53,12 +53,23 @@ type: "event"
 * 用货币化的方式破局SRE团队没事故的时候也没有功劳的悖论。
 * 在企业里夯实SRE团队的职能并主动拓展价值。
 
-### 直播预约和回看
+### 直播嘉宾
 
-请扫码关注预约或者回看直播。
+* 主持人： 刘宇 【金山办公-SRE工程师】
+* 联盟创始人：赵成 【SRE精英联盟发起人】
+* 分享专家：刘亚丹 【趣丸科技-技术保障部总监】
+* 分享专家：杨军 【腾讯IEG-SRE总监】
+* 圆桌嘉宾：赵成 【SRE精英联盟发起人】
+* 圆桌嘉宾：王海清 【中国信通院云大所高级业务主管-稳定性保障实验室负责人】
+* 圆桌嘉宾：党受辉 【腾讯IEG-SRE专家工程师】
+* 圆桌嘉宾：刘征 【中国DevOps社区核心组织者】
+
+### 预约直播
+
+请扫码关注预约直播，或者关注回放视频。
 
 视频号：
-![SRE精英联盟](images/wechat.jpg)
+![SRE精英联盟](/images/wechat.jpg)
 
 B站：
-![SRE精英联盟](images/bilibili.jpg)
+![SRE精英联盟](/images/bilibili.jpg)

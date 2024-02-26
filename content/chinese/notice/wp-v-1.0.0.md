@@ -1,7 +1,7 @@
 ---
 title: "祝贺《SRE实践白皮书》v1.0 正式版发布"
 date: 2024-02-26T15:27:17+06:00
-draft: draft
+draft:  true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description

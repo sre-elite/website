@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/pexels-google-deepmind-17485013.jpg"
   feature_item:
     # feature item loop
     - name : "SRE实践白皮书"
@@ -67,7 +67,7 @@ banner_feature:
 about:
   enable : true
   title : "关于精英联盟"
-  image : "images/about/about-us.jpg"
+  image : "images/about/pexels-google-deepmind-17484975.jpg"
   content : "自从 SRE 的理念进入中国以来，就已经引起了很多企业的关注和效仿，但各企业实施 SRE 的方法各异，SRE 的实现效果也各不相同。与此同时，中国的互联网行业中涌现出了一批对SRE充满热情的倡导者，他们为社区做出了各种贡献；包括：孙宇聪翻译出版了《SRE：Google运维解密》、赵成在极客时间开设了课程《SRE实战手册》，以及赵舜东在社区里积极地布道分享等等，不胜枚举。2022年，由赵成等人牵头，首批来自于互联网、运营商、金融等行业领军企业的 SRE 团队负责人齐聚一堂，组织了SRE研讨社区，定期开展社区分享活动，共同探讨 SRE 在各企业里的发展路径，分享各自的实战经验，并总结出了这份来自一线实战的、详实而持续更新的《SRE实践白皮书》。"
   button:
     enable : true

@@ -12,7 +12,7 @@ course: "腾讯"
 # biography
 bio: "现任IEG-技术运营部-蓝鲸产品中心总监"
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["自动化运维","平台工程"]
 # contact info
 contact:
   # contact item loop

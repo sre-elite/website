@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "现任广发证券股份有限公司资深SRE专家"
 # teacher portrait
-image: "images/elite/peng-huasheng.jpg"
+image: "images/elite/peng-hs.jpg"
 # course
 course: "广发证券"
 # biography

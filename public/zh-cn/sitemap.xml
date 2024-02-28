@@ -324,7 +324,7 @@
     <loc>/categories/%E4%B8%9A%E5%8A%A1%E6%8C%81%E7%BB%AD%E6%80%A7/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>/teacher/amay/</loc>
+    <loc>/teacher/elite/amay/</loc>
   </url><url>
     <loc>/author/</loc>
     <xhtml:link
@@ -439,6 +439,8 @@
                 hreflang="zh-cn"
                 href="/contact/"
                 />
+  </url><url>
+    <loc>/teacher/liu-hao/</loc>
   </url><url>
     <loc>/teacher/liu-yadan/</loc>
   </url><url>

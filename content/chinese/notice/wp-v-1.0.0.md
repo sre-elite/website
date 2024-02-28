@@ -1,13 +1,13 @@
 ---
-title: "祝贺《SRE实践白皮书》v1.0 正式版发布"
+title: "祝贺《SRE实践白皮书》v1.0.1 正式版发布"
 date: 2024-02-26T15:27:17+06:00
 draft:  true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "公开对外发布《SRE实践白皮书》v1.0.0 正式版。"
+description : "公开对外发布《SRE实践白皮书》v1.0.1 正式版。"
 # notice download link
-download_link : "http://docs.sre-elite.com/SRE-White-Paper-v1.0.pdf"
+download_link : "http://docs.sre-elite.com/SRE-White-Paper-v1.0.1.pdf"
 wp_version: "v1.0.0"
 # type
 type: "notice"
@@ -16,7 +16,7 @@ type: "notice"
 
 ### 公告
 
-经过数年的编写和修订，《SRE实践白皮书》v1.0.0 正式版终于发布了。这是一本关于SRE实践的白皮书，是SRE实践的指导手册，是SRE实践的最佳实践。
+经过数年的编写和修订，《SRE实践白皮书》v1.0.1 正式版终于发布了。这是一本关于SRE实践的白皮书，是SRE实践的指导手册，是SRE实践的最佳实践。
 
 ### 更新内容
 

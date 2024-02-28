@@ -1,25 +1,24 @@
 ---
-title: "Amay"
-draft: false
-slug: "/elite/amay/"
+title: "彭华盛"
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "现任阿里巴巴技术风险与效能部（GOC）Leader"
+description : "现任广发证券股份有限公司资深SRE专家"
 # teacher portrait
-image: "images/elite/amay.jpg"
+image: "images/elite/peng-huasheng.jpg"
 # course
-course: "阿里巴巴"
+course: "广发证券"
 # biography
-bio: "自2009年加入阿里以来，从一线技术支持逐步成长为GOC团队leader，推动了GOC能力转型升级，为业务的稳定运行提供支撑。"
+bio: "资深SRE专家，“运维之路”订阅号与《运维数字化转型》等书作者"
 # interest
-interest: ["故障应急协同管理","重大风险预防"]
+interest: ["可观测","SRE","DevOps"]
 # contact info
 contact:
   # contact item loop
-  - name : "diudiu1828@126.com"
+  - name : "409654794@qq.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:diudiu1828@126.com"
+    link : "mailto:409654794@qq.com"
 
   # # contact item loop
   # - name : "+12 034 5876"
@@ -57,5 +56,4 @@ type: "teacher"
 
 ### 简介
 
-* 2018年 ，作为1-5-10项目负责人，通过各种方案提升应急事件1分钟发现、5分钟应急处置、10分恢复的能力；
-* 2021年，落地安全生产“免责”文化。
+拥有超10年金融领域运维工作，其间负责或参与企业运维组织、流程、工具的建设，包括多项重大业务系统及数据中心工程性项目实施，数据中心工作流程构建，运维平台规划与研发等工作，参与多项行业标准，以及《运维数字化转型：构建四位一体的数字化运维体系》、《运维数据治理》、《变局中的证券机构；数字化转型与创新》等图书的编写，获得高效运维社区、 DevOps时代社区颁发的“2022年度技术专家”，“腾讯云最具价值专家”，“运维之路”订阅号作者。

@@ -98,7 +98,7 @@ logo = "images/logo.png"
 description = "SRE精英联盟是一个致力于引领、研究、发展SRE实践的社区。"
 author = "SRE精英联盟"
 # contact info
-address = "朝阳区，北京，中国"
+address = "北京，中国"
 mobile = "+86 13581793238"
 email = "info@sre-elite.com"
 # contact form action

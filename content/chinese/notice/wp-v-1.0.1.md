@@ -1,14 +1,14 @@
 ---
 title: "祝贺《SRE实践白皮书》v1.0.1 正式版发布"
 date: 2024-02-26T15:27:17+06:00
-draft:  true
+draft:  false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "公开对外发布《SRE实践白皮书》v1.0.1 正式版。"
 # notice download link
 download_link : "http://docs.sre-elite.com/SRE-White-Paper-v1.0.1.pdf"
-wp_version: "v1.0.0"
+wp_version: "v1.0.1"
 # type
 type: "notice"
 ---

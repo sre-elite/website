@@ -75,3 +75,5 @@ type: "event"
 
 B站：
 ![SRE精英联盟](/images/bilibili.jpg)
+
+### 直播回放视频请查看以上视频号和B站。

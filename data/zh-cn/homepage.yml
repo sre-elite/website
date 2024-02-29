@@ -4,15 +4,15 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "线上直播活动预约中"
-      content : "首次直播活动内容包括联盟的来历、白皮书的更新状态和另外两个硬核技术话题。请在视频号和 B 站预约参与互动。"
+    - title : "上海 Meetup 活动即将开放报名"
+      content : "联盟首次线下 Meetup 技术交流活动即将在上海举办，众多技术干货分享等你来学习。席位有限，请提前报名。"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "马上报名"
-        link : "event/sre-excellence-unleashed-ep1/"
+        link : "event/meetup-shanghai-1/"
     # slider item loop
     - title : "《SRE实践白皮书》更新中"
       content : "近期联盟已经发布了《SRE实践白皮书》的最新版本，欢迎大家下载阅读。"

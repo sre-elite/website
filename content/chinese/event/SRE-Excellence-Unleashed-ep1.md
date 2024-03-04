@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "本次活动在视频号&B站都可以预约。"
 # Event image
-image: "images/events/event-1.jpg"
+image: "images/events/se1ep1.jpg"
 # location
 location: "视频号&B站-直播"
 # entry fee
@@ -48,14 +48,14 @@ type: "event"
 
 ## SRE Excellence Unleashed: Live with Pros. Ep1
 
-### 直播内容概述
+### 内容概述
 
 * SRE精英联盟之桃园结义，讲述联盟的来历和故事。
-* 《SRE实践白皮书》RC2首次公开发布，历经数年撰写现公开下载。
+* 《SRE实践白皮书》v1.0.1 首次公开发布，历经数年撰写现公开下载。
 * 用货币化的方式破局SRE团队没事故的时候也没有功劳的悖论。
 * 在企业里夯实SRE团队的职能并主动拓展价值。
 
-### 直播嘉宾
+### 嘉宾
 
 * 主持人： 刘宇 【金山办公-SRE工程师】
 * 联盟创始人：赵成 【SRE精英联盟发起人】
@@ -76,4 +76,11 @@ type: "event"
 B站：
 ![SRE精英联盟](/images/bilibili.jpg)
 
-### 直播回放视频请查看以上视频号和B站。
+### 回放视频
+
+本次直播的回放视频，已经被剪辑了三个独立的视频，请扫码关注以上的视频号或者B站，既可以观看。请点赞、评论、分享，感谢您的支持。我们将会在视频号和 B 站上回答您的问题，也欢迎您在评论区留言。精彩的问题和留言会在下一期直播中被选中并回答。
+
+### 直播 PPT 下载
+
+* [主题分享 1：杨军《SRE团队的价值衡量--研发保障》，点击下载](http://docs.sre-elite.com/se1ep1-yang-jun.PDF)
+* [主题分享 2：刘亚丹《SRE团队价值之成本透明化》，点击下载](http://docs.sre-elite.com//se1ep1-liu-yadan.pdf)

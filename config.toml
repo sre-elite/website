@@ -171,7 +171,7 @@ weight = 1
 [Languages.en.params]
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; 2024 CCBY-NC4.0"
 
 
 
@@ -265,7 +265,7 @@ weight = 2
 [Languages.zh-cn.params]
 home = "首页"
 # copyright
-copyright = "&copy; SRE精英联盟-版权所有 2024 署名-非商业性使用-禁止演绎 CC4.0"
+copyright = "&copy; SRE精英联盟-版权所有 2024 CCBY-NC4.0"
 
 
 ################### Chinese navigation ####################

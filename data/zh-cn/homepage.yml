@@ -96,14 +96,10 @@ cta:
 success_story:
   enable : false
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "联盟案例"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  title : "联盟的故事"
+  content : "在首次直播活动中，我们邀请了联盟的创始人和相关重要成员，为大家讲解了 SRE 精英联盟的起源，目前正在做的工作。"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://www.youtube.com/watch?v=IeUR4erXxCM"
 
 
 ############################# event ################################
@@ -122,16 +118,16 @@ funfacts:
       count : "29"
 
     # funfact item loop
-    - name : "成员单位"
-      count : "12"
+    - name : "白皮书下载"
+      count : "3567"
 
     # funfact item loop
-    - name : "文档版本"
-      count : "13"
+    - name : "白皮书版本"
+      count : "3"
 
     # funfact item loop
     - name : "活动人次"
-      count : "1400"
+      count : "4500"
 
 # funfact is for about page
 

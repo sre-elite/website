@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "上海 Meetup 活动即将开放报名"
+    - title : "SRE精英联盟线下Meetup*上海-报名中"
       content : "联盟首次线下 Meetup 技术交流活动即将在上海举办，众多技术干货分享等你来学习。席位有限，请提前报名。"
       animation_in : "left"
       animation_out : "right"

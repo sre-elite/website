@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>English on SRE精英联盟 | 引领、研究、发展SRE</title><link>/tags/english/</link><description>Recent content in English on SRE精英联盟 | 引领、研究、发展SRE</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/tags/english/index.xml" rel="self" type="application/rss+xml"/><item><title>编写中-字节跳动高并发场景下的服务治理实践</title><link>/blog/blog-post-5/</link><pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate><guid>/blog/blog-post-5/</guid><description>The standard Lorem Ipsum passage, used since the 1500s Lorem</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on SRE精英联盟 | 引领、研究、发展SRE</title>
+    <link>//localhost:1313/tags/english/</link>
+    <description>Recent content in English on SRE精英联盟 | 引领、研究、发展SRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>编写中-字节跳动高并发场景下的服务治理实践</title>
+      <link>//localhost:1313/blog/blog-post-5/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-5/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem</description>
+    </item>
+  </channel>
+</rss>

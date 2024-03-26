@@ -25,10 +25,10 @@ speaker:
     image : "images/event-speakers/liu-yu.jpg"
     designation : "NIISA"
 
-#   # speaker loop
-#   - name : "John Doe"
-#     image : "images/event-speakers/speaker-2.jpg"
-#     designation : "Teacher"
+   # speaker loop
+   - name : "John Doe"
+     image : "images/event-speakers/speaker-2.jpg"
+     designation : "Teacher"
 
 #   # speaker loop
 #   - name : "Randy Luis"

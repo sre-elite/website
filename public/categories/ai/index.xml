@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on SRE精英联盟 | 引领、研究、发展SRE</title>
+    <link>//localhost:1313/categories/ai/</link>
+    <description>Recent content in AI on SRE精英联盟 | 引领、研究、发展SRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Mar 2024 15:27:17 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIOps的下一步走向哪里？【大模型与自动化运维】</title>
+      <link>//localhost:1313/blog/blog-post-4/</link>
+      <pubDate>Tue, 26 Mar 2024 15:27:17 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-4/</guid>
+      <description>信息化时代，我们通过</description>
+    </item>
+  </channel>
+</rss>

@@ -4,7 +4,8 @@
     <title>关于SRE精英联盟 on SRE精英联盟 | 引领、研究、发展SRE</title>
     <link>/about/</link>
     <description>Recent content in 关于SRE精英联盟 on SRE精英联盟 | 引领、研究、发展SRE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo 0.125.2</generator>
+    <language>zh-cn</language>
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

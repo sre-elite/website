@@ -4,17 +4,16 @@
     <title>AI on SRE精英联盟 | 引领、研究、发展SRE</title>
     <link>/tags/ai/</link>
     <description>Recent content in AI on SRE精英联盟 | 引领、研究、发展SRE</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>编写中-蚂蚁集团金融交易系统的稳定性保障</title>
       <link>/blog/blog-post-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
       <guid>/blog/blog-post-6/</guid>
       <description>The standard Lorem Ipsum passage, used since the 1500s Lorem</description>
     </item>
-    
   </channel>
 </rss>

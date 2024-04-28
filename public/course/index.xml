@@ -4,17 +4,16 @@
     <title>课程 on SRE精英联盟 | 引领、研究、发展SRE</title>
     <link>/course/</link>
     <description>Recent content in 课程 on SRE精英联盟 | 引领、研究、发展SRE</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>课程开发中</title>
       <link>/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
       <guid>/course/course-6/</guid>
       <description>课程简介 课程开发中。</description>
     </item>
-    
   </channel>
 </rss>

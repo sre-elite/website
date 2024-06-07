@@ -17,7 +17,7 @@ location: "北京"
 # entry fee
 fee: "免费"
 # apply url
-apply_url : "https://hdxu.cn/reWks"
+apply_url : "https://www.huodongxing.com/event/4753464770311?td=7911365748353"
 # event speaker
 speaker:
   # speaker loop

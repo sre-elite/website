@@ -1,7 +1,7 @@
 ---
 title: "编写中-蚂蚁集团金融交易系统的稳定性保障"
 date: 2019-07-06T15:27:17+06:00
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description

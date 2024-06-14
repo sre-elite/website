@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://www.sre-elite.com/"
 title = "SRE精英联盟 | 引领、研究、发展SRE"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List

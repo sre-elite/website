@@ -71,6 +71,7 @@ type: "event"
     - 中国信通院依托稳定性保障实验室，联合数十家头部企业专家，研讨和制定《服务韧性工程(SRE)能力要求》标准；
     - 该标准体系基于SRE理论的运维体系评估模型；
     - 标准覆盖全栈技术能力建设，构建和维护服务韧性工程，是体系化的方法论、实践和标准的集合。
+* [PPT下载](http://docs.sre-elite.com/caict-sre-cap-requirements.pdf) 
 
 
 #### 分享演讲 2： 《小米集团云计算故障应急响应经验分享》
@@ -80,6 +81,7 @@ type: "event"
     - 中大型企业复杂场景，故障管理带来的挑战
     - 应对挑战如何构建对应的能力 
     - 一些实践案例分享。
+* [PPT下载](http://docs.sre-elite.com/xiaomi-im-practices.pdf) | [视频回放](https://www.bilibili.com/video/BV1Sy411q7Dd/)
 
 
 #### 分享演讲 3： 《美图故障管理体系搭建实践》
@@ -89,6 +91,7 @@ type: "event"
     - 故障管理体系之What&Why；
     - 常见的构建思路；
     - 美图的探索实践分享。
+* [PPT下载](http://docs.sre-elite.com/meitu-im-practices.pdf) 
 
 
 #### 分享演讲 4： 《数字化监控平台稳定性保障实践》
@@ -98,6 +101,7 @@ type: "event"
     - 云原生下运维的问题挑战；
     - 数字化监控平台的核心能力；
     - 稳定性保障的场景应用实践。
+* [PPT下载](http://docs.sre-elite.com/china-unicom-tianyan-im.pdf) | [视频回放](https://www.bilibili.com/video/BV1Yr421F7qV/)
 
 
 #### 分享演讲 5 ：《全球化游戏故障管理实践》
@@ -106,6 +110,7 @@ type: "event"
 * 内容概述：
     - 全球化业务在故障管理上面临的问题和挑战
     - 如何做故障治理
+* [PPT下载](http://docs.sre-elite.com/tencent-game-global-im.pdf) | [视频回放](https://www.bilibili.com/video/BV1bS411N7ka/)
 
 
 > 有任何建议和咨询，请联系我们。[点这里](/contact/)

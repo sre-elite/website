@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sre-elite.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/event/meetup-beijing-1/</loc>
+    <loc>http://localhost:1313/event/meetup-beijing-1/</loc>
     <lastmod>2024-06-22T13:30:00+04:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/notice/wp-v-1.0.3/</loc>
+    <loc>http://localhost:1313/notice/wp-v-1.0.3/</loc>
     <lastmod>2024-06-12T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/notice/</loc>
+    <loc>http://localhost:1313/notice/</loc>
     <lastmod>2024-06-12T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/event/meetup-shanghai-1/</loc>
+    <loc>http://localhost:1313/event/meetup-shanghai-1/</loc>
     <lastmod>2024-04-13T13:30:00+04:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/tags/finops/</loc>
+    <loc>http://localhost:1313/tags/finops/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/tags/%E5%BA%A6%E9%87%8F/</loc>
+    <loc>http://localhost:1313/tags/%E5%BA%A6%E9%87%8F/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/categories/%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</loc>
+    <loc>http://localhost:1313/categories/%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/blog/bilibili-finops-practice/</loc>
+    <loc>http://localhost:1313/blog/bilibili-finops-practice/</loc>
     <lastmod>2024-03-19T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/notice/wp-v-1.0.2/</loc>
+    <loc>http://localhost:1313/notice/wp-v-1.0.2/</loc>
     <lastmod>2024-03-07T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/event/sre-excellence-unleashed-ep1/</loc>
+    <loc>http://localhost:1313/event/sre-excellence-unleashed-ep1/</loc>
     <lastmod>2024-02-29T20:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/notice/wp-v-1.0.1/</loc>
+    <loc>http://localhost:1313/notice/wp-v-1.0.1/</loc>
     <lastmod>2024-02-26T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/ci-cd-co/</loc>
+    <loc>http://localhost:1313/research/ci-cd-co/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/measurement/</loc>
+    <loc>http://localhost:1313/research/measurement/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/release-engining/</loc>
+    <loc>http://localhost:1313/research/release-engining/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/o11y/</loc>
+    <loc>http://localhost:1313/research/o11y/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/course/</loc>
+    <loc>http://localhost:1313/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/course/course-6/</loc>
+    <loc>http://localhost:1313/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/platform-engining/</loc>
+    <loc>http://localhost:1313/research/platform-engining/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/dr-ha/</loc>
+    <loc>http://localhost:1313/research/dr-ha/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/elite/amay/</loc>
+    <loc>http://localhost:1313/teacher/elite/amay/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/author/</loc>
+    <loc>http://localhost:1313/author/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/author/john-doe/</loc>
+    <loc>http://localhost:1313/author/john-doe/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/scholarship/scholarship-1/</loc>
+    <loc>http://localhost:1313/scholarship/scholarship-1/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/chen-zixin/</loc>
+    <loc>http://localhost:1313/teacher/chen-zixin/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/scholarship/</loc>
+    <loc>http://localhost:1313/scholarship/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/gu-huangliang/</loc>
+    <loc>http://localhost:1313/teacher/gu-huangliang/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/lai-wei/</loc>
+    <loc>http://localhost:1313/teacher/lai-wei/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/</loc>
+    <loc>http://localhost:1313/teacher/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/liu-hao/</loc>
+    <loc>http://localhost:1313/teacher/liu-hao/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/liu-yadan/</loc>
+    <loc>http://localhost:1313/teacher/liu-yadan/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/liu-zheng/</loc>
+    <loc>http://localhost:1313/teacher/liu-zheng/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/peng-huasheng/</loc>
+    <loc>http://localhost:1313/teacher/peng-huasheng/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/shi-peng/</loc>
+    <loc>http://localhost:1313/teacher/shi-peng/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/scholarship/scholarship-3/</loc>
+    <loc>http://localhost:1313/scholarship/scholarship-3/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/wang-zhe/</loc>
+    <loc>http://localhost:1313/teacher/wang-zhe/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/wu-tianhao/</loc>
+    <loc>http://localhost:1313/teacher/wu-tianhao/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/scholarship/scholarship-2/</loc>
+    <loc>http://localhost:1313/scholarship/scholarship-2/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/yang-wenbing/</loc>
+    <loc>http://localhost:1313/teacher/yang-wenbing/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/ye-xiaolong/</loc>
+    <loc>http://localhost:1313/teacher/ye-xiaolong/</loc>
   </url><url>
-    <loc>https://www.sre-elite.com/teacher/zhao-cheng/</loc>
+    <loc>http://localhost:1313/teacher/zhao-cheng/</loc>
   </url>
 </urlset>

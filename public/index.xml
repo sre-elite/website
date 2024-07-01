@@ -2,241 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SRE精英联盟 | 引领、研究、发展SRE</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.sre-elite.com/</link>
     <description>Recent content on SRE精英联盟 | 引领、研究、发展SRE</description>
     <generator>Hugo 0.125.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 22 Jun 2024 13:30:00 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sre-elite.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SRE精英联盟 Meetup - 北京  </title>
-      <link>http://localhost:1313/event/meetup-beijing-1/</link>
+      <link>https://www.sre-elite.com/event/meetup-beijing-1/</link>
       <pubDate>Fri, 07 Jun 2024 01:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/meetup-beijing-1/</guid>
+      <guid>https://www.sre-elite.com/event/meetup-beijing-1/</guid>
       <description>活动日程 地点：北京市</description>
     </item>
     <item>
       <title>《SRE实践白皮书》v1.0.3 发布</title>
-      <link>http://localhost:1313/notice/wp-v-1.0.3/</link>
+      <link>https://www.sre-elite.com/notice/wp-v-1.0.3/</link>
       <pubDate>Wed, 12 Jun 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/wp-v-1.0.3/</guid>
+      <guid>https://www.sre-elite.com/notice/wp-v-1.0.3/</guid>
       <description>第四章做了大规模重构</description>
     </item>
     <item>
       <title>SRE精英联盟Meetup - 上海</title>
-      <link>http://localhost:1313/event/meetup-shanghai-1/</link>
+      <link>https://www.sre-elite.com/event/meetup-shanghai-1/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/meetup-shanghai-1/</guid>
+      <guid>https://www.sre-elite.com/event/meetup-shanghai-1/</guid>
       <description>活动日程 地点：上海市</description>
     </item>
     <item>
       <title>节省数亿IT成本，B站FinOps优化实践</title>
-      <link>http://localhost:1313/blog/bilibili-finops-practice/</link>
+      <link>https://www.sre-elite.com/blog/bilibili-finops-practice/</link>
       <pubDate>Tue, 19 Mar 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/blog/bilibili-finops-practice/</guid>
+      <guid>https://www.sre-elite.com/blog/bilibili-finops-practice/</guid>
       <description>一、背景 当前，降本增</description>
     </item>
     <item>
       <title>《SRE实践白皮书》v1.0.2 发布</title>
-      <link>http://localhost:1313/notice/wp-v-1.0.2/</link>
+      <link>https://www.sre-elite.com/notice/wp-v-1.0.2/</link>
       <pubDate>Thu, 07 Mar 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/wp-v-1.0.2/</guid>
+      <guid>https://www.sre-elite.com/notice/wp-v-1.0.2/</guid>
       <description>本版本的增加了许可证</description>
     </item>
     <item>
       <title>SRE精英联盟:释放卓越系列直播-第一期</title>
-      <link>http://localhost:1313/event/sre-excellence-unleashed-ep1/</link>
+      <link>https://www.sre-elite.com/event/sre-excellence-unleashed-ep1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/sre-excellence-unleashed-ep1/</guid>
+      <guid>https://www.sre-elite.com/event/sre-excellence-unleashed-ep1/</guid>
       <description>SRE Excellence Unleashed: Live with Pros. Ep1 内容概</description>
     </item>
     <item>
       <title>祝贺《SRE实践白皮书》v1.0.1 正式版发布</title>
-      <link>http://localhost:1313/notice/wp-v-1.0.1/</link>
+      <link>https://www.sre-elite.com/notice/wp-v-1.0.1/</link>
       <pubDate>Mon, 26 Feb 2024 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/notice/wp-v-1.0.1/</guid>
+      <guid>https://www.sre-elite.com/notice/wp-v-1.0.1/</guid>
       <description>公告 经过数年的编写和</description>
     </item>
     <item>
       <title>CI/CD/CO</title>
-      <link>http://localhost:1313/research/ci-cd-co/</link>
+      <link>https://www.sre-elite.com/research/ci-cd-co/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/ci-cd-co/</guid>
+      <guid>https://www.sre-elite.com/research/ci-cd-co/</guid>
       <description>CI/CD/CO 是现代软件开发和部</description>
     </item>
     <item>
       <title>度量考核</title>
-      <link>http://localhost:1313/research/measurement/</link>
+      <link>https://www.sre-elite.com/research/measurement/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/measurement/</guid>
+      <guid>https://www.sre-elite.com/research/measurement/</guid>
       <description>度量考核是评估系统运</description>
     </item>
     <item>
       <title>发布工程</title>
-      <link>http://localhost:1313/research/release-engining/</link>
+      <link>https://www.sre-elite.com/research/release-engining/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/release-engining/</guid>
+      <guid>https://www.sre-elite.com/research/release-engining/</guid>
       <description>发布工程是 SRE 领域中的</description>
     </item>
     <item>
       <title>可观测性</title>
-      <link>http://localhost:1313/research/o11y/</link>
+      <link>https://www.sre-elite.com/research/o11y/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/o11y/</guid>
+      <guid>https://www.sre-elite.com/research/o11y/</guid>
       <description>可观测性是指通过监控</description>
     </item>
     <item>
       <title>课程开发中</title>
-      <link>http://localhost:1313/course/course-6/</link>
+      <link>https://www.sre-elite.com/course/course-6/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-6/</guid>
+      <guid>https://www.sre-elite.com/course/course-6/</guid>
       <description>课程简介 课程开发中。</description>
     </item>
     <item>
       <title>平台工程</title>
-      <link>http://localhost:1313/research/platform-engining/</link>
+      <link>https://www.sre-elite.com/research/platform-engining/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/platform-engining/</guid>
+      <guid>https://www.sre-elite.com/research/platform-engining/</guid>
       <description>平台工程是一种软件开</description>
     </item>
     <item>
       <title>容灾和高可用</title>
-      <link>http://localhost:1313/research/dr-ha/</link>
+      <link>https://www.sre-elite.com/research/dr-ha/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/research/dr-ha/</guid>
+      <guid>https://www.sre-elite.com/research/dr-ha/</guid>
       <description>容灾和高可用领域是S</description>
     </item>
     <item>
       <title>Amay</title>
-      <link>http://localhost:1313/teacher/elite/amay/</link>
+      <link>https://www.sre-elite.com/teacher/elite/amay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/elite/amay/</guid>
+      <guid>https://www.sre-elite.com/teacher/elite/amay/</guid>
       <description>简介 2018年 ，作为</description>
     </item>
     <item>
       <title>John doe</title>
-      <link>http://localhost:1313/author/john-doe/</link>
+      <link>https://www.sre-elite.com/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/john-doe/</guid>
+      <guid>https://www.sre-elite.com/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:1313/author/mark-dinn/</link>
+      <link>https://www.sre-elite.com/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mark-dinn/</guid>
+      <guid>https://www.sre-elite.com/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     <item>
       <title>参与内部例会</title>
-      <link>http://localhost:1313/scholarship/scholarship-1/</link>
+      <link>https://www.sre-elite.com/scholarship/scholarship-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/scholarship-1/</guid>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-1/</guid>
       <description>每周线上会议的形式 不</description>
     </item>
     <item>
       <title>陈自欣</title>
-      <link>http://localhost:1313/teacher/chen-zixin/</link>
+      <link>https://www.sre-elite.com/teacher/chen-zixin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/chen-zixin/</guid>
+      <guid>https://www.sre-elite.com/teacher/chen-zixin/</guid>
       <description>简介 在云计算和IT运</description>
     </item>
     <item>
       <title>顾黄亮</title>
-      <link>http://localhost:1313/teacher/gu-huangliang/</link>
+      <link>https://www.sre-elite.com/teacher/gu-huangliang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/gu-huangliang/</guid>
+      <guid>https://www.sre-elite.com/teacher/gu-huangliang/</guid>
       <description>简介 从事信息科技岗位</description>
     </item>
     <item>
       <title>来炜</title>
-      <link>http://localhost:1313/teacher/lai-wei/</link>
+      <link>https://www.sre-elite.com/teacher/lai-wei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/lai-wei/</guid>
+      <guid>https://www.sre-elite.com/teacher/lai-wei/</guid>
       <description>简介 云原生智能运维科</description>
     </item>
     <item>
       <title>刘昊</title>
-      <link>http://localhost:1313/teacher/liu-hao/</link>
+      <link>https://www.sre-elite.com/teacher/liu-hao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/liu-hao/</guid>
+      <guid>https://www.sre-elite.com/teacher/liu-hao/</guid>
       <description>简介 从业十余年，专注</description>
     </item>
     <item>
       <title>刘亚丹</title>
-      <link>http://localhost:1313/teacher/liu-yadan/</link>
+      <link>https://www.sre-elite.com/teacher/liu-yadan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/liu-yadan/</guid>
+      <guid>https://www.sre-elite.com/teacher/liu-yadan/</guid>
       <description>简介 曾任虎牙直播（2</description>
     </item>
     <item>
       <title>刘征</title>
-      <link>http://localhost:1313/teacher/liu-zheng/</link>
+      <link>https://www.sre-elite.com/teacher/liu-zheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/liu-zheng/</guid>
+      <guid>https://www.sre-elite.com/teacher/liu-zheng/</guid>
       <description>简介 从业 20 余年，曾供</description>
     </item>
     <item>
       <title>彭华盛</title>
-      <link>http://localhost:1313/teacher/peng-huasheng/</link>
+      <link>https://www.sre-elite.com/teacher/peng-huasheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/peng-huasheng/</guid>
+      <guid>https://www.sre-elite.com/teacher/peng-huasheng/</guid>
       <description>简介 拥有超10年金融</description>
     </item>
     <item>
       <title>石鹏</title>
-      <link>http://localhost:1313/teacher/shi-peng/</link>
+      <link>https://www.sre-elite.com/teacher/shi-peng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/shi-peng/</guid>
+      <guid>https://www.sre-elite.com/teacher/shi-peng/</guid>
       <description>简介 从业十余年，一直</description>
     </item>
     <item>
       <title>特点趋势跟踪</title>
-      <link>http://localhost:1313/scholarship/scholarship-3/</link>
+      <link>https://www.sre-elite.com/scholarship/scholarship-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/scholarship-3/</guid>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-3/</guid>
       <description>紧跟大模型和 AI 发展 探</description>
     </item>
     <item>
       <title>王哲</title>
-      <link>http://localhost:1313/teacher/wang-zhe/</link>
+      <link>https://www.sre-elite.com/teacher/wang-zhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/wang-zhe/</guid>
+      <guid>https://www.sre-elite.com/teacher/wang-zhe/</guid>
       <description>简介 2022年加入小</description>
     </item>
     <item>
       <title>吴天昊</title>
-      <link>http://localhost:1313/teacher/wu-tianhao/</link>
+      <link>https://www.sre-elite.com/teacher/wu-tianhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/wu-tianhao/</guid>
+      <guid>https://www.sre-elite.com/teacher/wu-tianhao/</guid>
       <description>简介 深耕运维领域十余</description>
     </item>
     <item>
       <title>行业现状调研</title>
-      <link>http://localhost:1313/scholarship/scholarship-2/</link>
+      <link>https://www.sre-elite.com/scholarship/scholarship-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarship/scholarship-2/</guid>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-2/</guid>
       <description>紧跟行业发展趋势 对特</description>
     </item>
     <item>
       <title>杨文兵</title>
-      <link>http://localhost:1313/teacher/yang-wenbing/</link>
+      <link>https://www.sre-elite.com/teacher/yang-wenbing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/yang-wenbing/</guid>
+      <guid>https://www.sre-elite.com/teacher/yang-wenbing/</guid>
       <description>简介 腾讯T12专家工</description>
     </item>
     <item>
       <title>叶晓龙</title>
-      <link>http://localhost:1313/teacher/ye-xiaolong/</link>
+      <link>https://www.sre-elite.com/teacher/ye-xiaolong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/ye-xiaolong/</guid>
+      <guid>https://www.sre-elite.com/teacher/ye-xiaolong/</guid>
       <description>简介 在浙江移动深耕1</description>
     </item>
     <item>
       <title>赵成</title>
-      <link>http://localhost:1313/teacher/zhao-cheng/</link>
+      <link>https://www.sre-elite.com/teacher/zhao-cheng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teacher/zhao-cheng/</guid>
+      <guid>https://www.sre-elite.com/teacher/zhao-cheng/</guid>
       <description>简介 15年运维、SR</description>
     </item>
   </channel>

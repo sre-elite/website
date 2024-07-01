@@ -265,7 +265,7 @@ weight = 2
 [Languages.zh-cn.params]
 home = "首页"
 # copyright
-copyright = "&copy; SRE精英联盟-版权所有 2024 CCBY-NC4.0"
+copyright = "&copy; SRE精英联盟-版权所有 2024 CCBY-NC4.0  |  备案号：京ICP备12049721号-9"
 
 
 ################### Chinese navigation ####################

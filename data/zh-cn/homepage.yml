@@ -4,15 +4,15 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "SRE精英联盟线下 Meetup 北京-预告"
-      content : "联盟线下 Meetup 技术交流活动即将在北京举办，众多技术干货分享等你来学习。席位有限，请提前报名。"
+    - title : "SRE精英联盟线下 Meetup 深圳"
+      content : "联盟线下 Meetup 技术交流活动即将在深圳举办，众多技术干货分享等你来学习。席位有限，请提前报名。"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "马上报名"
-        link : "event/meetup-beijing-1/"
+        link : "event/meetup-shenzhen-1/"
     # slider item loop
     - title : "《SRE实践白皮书》更新中"
       content : "近期联盟已经发布了《SRE实践白皮书》的最新版本，欢迎大家下载阅读。"

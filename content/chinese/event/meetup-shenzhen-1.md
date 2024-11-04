@@ -101,6 +101,7 @@ type: "event"
 2.腾讯游戏运营成本精算体系介绍<br>
 3.运营成本优化实践
 
+* [PPT下载](http://docs.sre-elite.com/SRE-Elite-zdm-tencent-game-FinOps.pdf) 
 
 #### 分享演讲 3： 《广发证券稳定性保障体系建设实践》 
 
@@ -112,6 +113,8 @@ type: "event"
 2.以数据、场景驱动的稳定性保障技术治理；<br>
 3.技术治理与持续优化的实践案例分享。
 
+* [PPT下载](http://docs.sre-elite.com/SRE-Elite-zjh-gfzj.pdf) 
+
 #### 分享演讲 4： 《趣丸SLA质量体系下的业务高可用建设》
 
 * 讲师姓名：李楠  (业务运维负责人)
@@ -122,6 +125,7 @@ type: "event"
 2、如何通过SLA体系驱动高可用建设<br>
 3、趣丸网络的高可用建设实践和成效
 
+* [PPT下载](http://docs.sre-elite.com/SRE-Elite-ln-quwan-SLA.pdf) 
 
 #### 分享演讲 5 《OPPO春节业务保障》
 
@@ -132,6 +136,8 @@ type: "event"
 1、重大活动保障思路<br>
 2、OPPO春节重保作战实践
 
+* [PPT下载](http://docs.sre-elite.com/SRE-Elite-qhl-Oppo-cjzb.pdf) 
+
 #### 分享演讲 6 《近年来宕机事故分析及云+应用运行安全建设建议》
 
 * 讲师姓名：季可航  （中国信通院云大所云计算部工程师）
@@ -141,6 +147,7 @@ type: "event"
 1.近年来国外发生的宕机事故进行了详细分析，总结了主要原因和影响。<br>
 2.针对企业提出了构建云+应用的运行安全建议，以提高系统稳定性。
 
+* [PPT下载](http://docs.sre-elite.com/SRE-Elite-jkx-xty.pdf) 
 
 > 有任何建议和咨询，请联系我们。[点这里](/contact/)
 -->

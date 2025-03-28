@@ -1,24 +1,24 @@
 ---
-title: "刘征"
+title: "刘宇"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "技术社区构建者，技术布道师"
+description : "现任金山办公助理总裁助理"
 # teacher portrait
-image: "images/elite/liu-zheng.jpg"
+image: "images/elite/liu-yu.jpg"
 # course
-course: "独立顾问"
+course: "金山办公"
 # biography
-bio: "《The Site Reliability Workbook》《DevOps Handbook》译者，DevOps/SRE的长期实践者。致力于通过社区推广SRE/DevOps的理念、技术和实践。热衷于学习和传播开源技术。"
+bio: ""
 # interest
-interest: ["DevOps","SRE"," 可观测性"]
+interest: ["云计算","大模型","知识库"]
 # contact info
 contact:
   # contact item loop
-  - name : "liuzh66@gmail.com"
+  - name : "liuyu105@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:liuzh66@gmail.com"
+    link : "mailto:liuyu105@gmail.com"
 
   # # contact item loop
   # - name : "+12 034 5876"
@@ -31,9 +31,9 @@ contact:
   #   link : "#"
 
   # contact item loop
-  - name : "martinliu"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "https://twitter.com/martinliu"
+  # - name : "martinliu"
+  #   icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+  #   link : "https://twitter.com/martinliu"
 
   # # contact item loop
   # - name : "Clark Malik"
@@ -46,7 +46,7 @@ contact:
   #   link : "#"
 
   # contact item loop
-  - name : "北京"
+  - name : "厦门"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 
@@ -56,4 +56,5 @@ type: "teacher"
 
 ### 简介
 
-从业 20 余年，曾供职于Citrix、BMC、Red Hat、Elastic 等外商软件企业，现为独立顾问。从 18 年开始在国内创立了中国DevOps社区。专注于SRE和可观测性等方面的深入研究，从事相关领域的企业咨询和培训工作。
+1. 15年运维、研发工作经验，曾供职于新浪、百度、腾讯等知名公司，负责相关业务的稳定性保障工作。
+2. 出版《Puppet实战》《Puppet实战手册》《Python进阶》

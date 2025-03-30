@@ -10,7 +10,7 @@ image: "images/elite/liu-zheng.jpg"
 # course
 course: "独立顾问"
 # biography
-bio: "《The Site Reliability Workbook》《DevOps Handbook》译者，DevOps/SRE的长期实践者。致力于通过社区推广SRE/DevOps的理念、技术和实践。热衷于学习和传播开源技术。"
+bio: "《The Site Reliability Workbook》《DevOps Handbook》译者，DevOps/SRE的长期实践者。致力于通过社区推广SRE/DevOps的理念、技术和实践。热衷于传播开源技术。"
 # interest
 interest: ["DevOps","SRE"," 可观测性"]
 # contact info

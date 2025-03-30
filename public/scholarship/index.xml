@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>辅导 on SRE精英联盟 | 引领、研究、发展SRE</title><link>https://www.sre-elite.com/scholarship/</link><description>Recent content in 辅导 on SRE精英联盟 | 引领、研究、发展SRE</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://www.sre-elite.com/scholarship/index.xml" rel="self" type="application/rss+xml"/><item><title>参与内部例会</title><link>https://www.sre-elite.com/scholarship/scholarship-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sre-elite.com/scholarship/scholarship-1/</guid><description>每周线上会议的形式 不</description></item><item><title>特点趋势跟踪</title><link>https://www.sre-elite.com/scholarship/scholarship-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sre-elite.com/scholarship/scholarship-3/</guid><description>紧跟大模型和 AI 发展 探</description></item><item><title>行业现状调研</title><link>https://www.sre-elite.com/scholarship/scholarship-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sre-elite.com/scholarship/scholarship-2/</guid><description>紧跟行业发展趋势 对特</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>辅导 on SRE精英联盟 | 引领、研究、发展SRE</title>
+    <link>https://www.sre-elite.com/scholarship/</link>
+    <description>Recent content in 辅导 on SRE精英联盟 | 引领、研究、发展SRE</description>
+    <generator>Hugo 0.125.2</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://www.sre-elite.com/scholarship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>参与内部例会</title>
+      <link>https://www.sre-elite.com/scholarship/scholarship-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-1/</guid>
+      <description>每周线上会议的形式 不</description>
+    </item>
+    <item>
+      <title>特点趋势跟踪</title>
+      <link>https://www.sre-elite.com/scholarship/scholarship-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-3/</guid>
+      <description>紧跟大模型和 AI 发展 探</description>
+    </item>
+    <item>
+      <title>行业现状调研</title>
+      <link>https://www.sre-elite.com/scholarship/scholarship-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sre-elite.com/scholarship/scholarship-2/</guid>
+      <description>紧跟行业发展趋势 对特</description>
+    </item>
+  </channel>
+</rss>

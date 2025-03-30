@@ -46,7 +46,7 @@ contact:
   #   link : "#"
 
   # contact item loop
-  - name : "厦门"
+  - name : "珠海"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

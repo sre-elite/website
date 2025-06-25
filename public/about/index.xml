@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于SRE精英联盟 on SRE精英联盟 | 引领、研究、发展SRE</title>
-    <link>https://www.sre-elite.com/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in 关于SRE精英联盟 on SRE精英联盟 | 引领、研究、发展SRE</description>
     <generator>Hugo 0.125.2</generator>
     <language>zh-cn</language>
-    <atom:link href="https://www.sre-elite.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

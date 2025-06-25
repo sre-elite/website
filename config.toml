@@ -288,11 +288,11 @@ hasChildren = true
 
   [[Languages.zh-cn.menu.main]]
   parent = "场景"
-  name = "数据集"
+  name = "AI数据集"
   url = "https://ai.sre-elite.com/"
 
 [[Languages.zh-cn.menu.main]]
-weight = 5
+weight = 10
 name = "联盟"
 hasChildren = true
 
@@ -324,12 +324,12 @@ hasChildren = true
 [[Languages.zh-cn.menu.main]]
 name = "博客"
 url = "blog/"
-weight = 9
+weight = 20
   
 [[Languages.zh-cn.menu.main]]
 name = "联系"
 url = "contact/"
-weight = 11
+weight = 30
 
 
 # footer menu

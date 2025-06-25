@@ -279,10 +279,20 @@ weight = 1
 [[Languages.zh-cn.menu.main]]
 name = "公告"
 url = "notice/"
-weight = 2
+weight = 3
 
 [[Languages.zh-cn.menu.main]]
-weight = 3
+name = "场景"
+weight = 4
+hasChildren = true
+
+  [[Languages.zh-cn.menu.main]]
+  parent = "场景"
+  name = "数据集"
+  url = "https://ai.sre-elite.com/"
+
+[[Languages.zh-cn.menu.main]]
+weight = 5
 name = "联盟"
 hasChildren = true
 
@@ -314,12 +324,12 @@ hasChildren = true
 [[Languages.zh-cn.menu.main]]
 name = "博客"
 url = "blog/"
-weight = 4
+weight = 9
   
 [[Languages.zh-cn.menu.main]]
 name = "联系"
 url = "contact/"
-weight = 5
+weight = 11
 
 
 # footer menu

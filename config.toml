@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.sre-elite.com/"
-title = "SRE精英联盟 | 引领、研究、发展SRE"
+title = "SRE精英联盟 | 引领、研究、发展 SRE"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Asia/Shanghai"
@@ -95,7 +95,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "SRE精英联盟是一个致力于引领、研究、发展SRE实践的社区。"
+description = "SRE 精英联盟是一个致力于引领、研究、发展 SRE 实践的社区。"
 author = "SRE精英联盟"
 # contact info
 address = "北京，中国"

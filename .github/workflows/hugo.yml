@@ -53,7 +53,7 @@ jobs:
         run: |
           hugo \
             --minify
-#            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://www.sre-elite.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

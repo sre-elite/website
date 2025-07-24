@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  hugo-build:
+    build: 
+      context: .
+      platforms:
+        - linux/amd64
+        - linux/arm64
+    container_name: hugo-build
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    command: hugo --minify --baseURL "https://www.sre-elite.com/"
+    
+  hugo-dev:
+    build: 
+      context: .
+      platforms:
+        - linux/amd64
+        - linux/arm64
+    container_name: hugo-dev
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    command: hugo server --bind 0.0.0.0 --baseURL http://localhost:1313 --buildDrafts --buildFuture
+    
+  hugo-test:
+    build: 
+      context: .
+      platforms:
+        - linux/amd64
+        - linux/arm64
+    container_name: hugo-test
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    command: hugo server --bind 0.0.0.0 --baseURL http://localhost:1313 --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify

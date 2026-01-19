@@ -26,7 +26,8 @@ delete_dir_contents() {
     log "WARN: 目录不存在，跳过删除: $dir"
     return 0
   fi
-  rm -rf "$dir"/*
+  # 删除目录下所有内容（包含隐藏文件），但保留目录本身
+  find "$dir" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
   if [ -n "$(ls -A "$dir" 2>/dev/null)" ]; then
     log "ERROR: 删除失败，目录不为空: $dir"
     return 1
@@ -37,7 +38,7 @@ delete_dir_contents() {
 clone_or_update_repo() {
   if [ -d "$CLONE_DIR/.git" ]; then
     log "更新代码库: $CLONE_DIR"
-    git -C "$CLONE_DIR" pull --ff-only
+    (cd "$CLONE_DIR" && git pull --ff-only)
     return 0
   fi
 
@@ -61,7 +62,8 @@ if [ ! -d "$SOURCE_DIR" ] || [ -z "$(ls -A "$SOURCE_DIR" 2>/dev/null)" ]; then
   die "部署源目录为空或不存在: $SOURCE_DIR"
 fi
 
-NEW_COMMIT="$(git -C "$CLONE_DIR" rev-parse HEAD)"
+NEW_COMMIT="$(cd "$CLONE_DIR" && git rev-parse HEAD)"
+NEW_COMMIT_TS="$(cd "$CLONE_DIR" && git show -s --format=%ci HEAD)"
 OLD_COMMIT=""
 if [ -f "$DEPLOY_COMMIT_FILE" ]; then
   OLD_COMMIT="$(cat "$DEPLOY_COMMIT_FILE")"
@@ -69,8 +71,8 @@ fi
 
 if [ "$NEW_COMMIT" = "$OLD_COMMIT" ]; then
   TS="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-  echo "$TS $NEW_COMMIT (no-change)" >> "$DEPLOY_HISTORY_FILE"
-  log "代码库无更新，未做部署。记录时间戳: $TS"
+  echo "$TS $NEW_COMMIT (no-change) commit_ts=$NEW_COMMIT_TS" >> "$DEPLOY_HISTORY_FILE"
+  log "代码库无更新，未做部署。当前版本: $NEW_COMMIT (commit_ts=$NEW_COMMIT_TS)"
   exit 0
 fi
 
@@ -86,5 +88,5 @@ delete_dir_contents "$TARGET_DIR" || die "目标目录清理失败，终止部�
 cp -r "$SOURCE_DIR"/* "$TARGET_DIR"
 TS="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 echo "$NEW_COMMIT" > "$DEPLOY_COMMIT_FILE"
-echo "$TS $NEW_COMMIT (deployed)" >> "$DEPLOY_HISTORY_FILE"
-log "部署完成。"
+echo "$TS $NEW_COMMIT (deployed) commit_ts=$NEW_COMMIT_TS" >> "$DEPLOY_HISTORY_FILE"
+log "部署完成。当前版本: $NEW_COMMIT (commit_ts=$NEW_COMMIT_TS)"

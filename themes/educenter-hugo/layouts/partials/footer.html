@@ -92,6 +92,13 @@
           </ul>
         </div>
       </div>
+      {{ with site.Params.icp_license }}
+      <div class="row">
+        <div class="col-12 text-center">
+          <a class="text-color" href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">{{ . }}</a>
+        </div>
+      </div>
+      {{ end }}
     </div>
   </div>
 </footer>
